@@ -14,7 +14,7 @@ class GameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //komentarz
+        //komentarz3
         //komentarz numer 2
         if let view = self.view as! SKView? {
             // Load the SKScene from 'GameScene.sks'
